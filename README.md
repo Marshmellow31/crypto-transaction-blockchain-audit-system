@@ -23,3 +23,7 @@ This project simulates a cryptocurrency transaction system with a blockchain-ins
 - Blockchain simulation
 
 ## Project Structure
+database/           → schema and tables
+queries/            → transaction and audit queries
+blockchain_logic/   → block verification logic
+docs/               → ER diagrams and documentation
